@@ -1,37 +1,37 @@
-# UM CIS PhD Qualifying Examination Resources
+# 澳门大学 CIS 博士资格考试资源
 
-Resources for preparation of the PhD Qualifying Examination (QE) of the **Department of Computer and Information Science (CIS)** at the **University of Macau (UM)**.
+用于准备**澳门大学（UM）计算机与信息科学系（CIS）**博士资格考试（QE）的相关资源。
 
-## 📘 About This Repository
+## 📘 关于本仓库
 
-This repository collects and organizes study materials related to the UM CIS PhD QE, including:
+本仓库收集并整理与澳门大学 CIS 博士资格考试相关的学习资料，包括：
 
-* Topic summaries
-* Study notes
-* Practice questions
-* Reference materials
-* Personal understanding
+* 主题总结
+* 学习笔记
+* 练习题
+* 参考资料
+* 个人理解
 
-All content is intended **solely for academic sharing and learning**.
-Please respect the original authors and the university’s policies when using these materials.
+所有内容**仅用于学术分享与学习**。  
+使用这些资料时，请尊重原作者以及学校的相关政策。
 
-## 📚 Content Overview
+## 📚 内容概览
 
-* Core QE subjects and outlines
-* Notes from lectures or online materials
-* Potential exam topics
-* Practice question sets
-* Additional references for deeper study
+* 核心 QE 科目与大纲
+* 来自课程或线上资料的笔记
+* 潜在考试主题
+* 练习题集
+* 用于深入学习的补充参考资料
 
-## 🙏 Acknowledgment
+## 🙏 致谢
 
-The materials in this repository come from the efforts and contributions of many students, alumni, and peers over the years.
-This repo aims to carry forward this tradition, allowing future students to continue improving, expanding, and passing on the knowledge.
+本仓库中的资料来源于多年来许多学生、校友和同伴的努力与贡献。  
+本仓库旨在延续这一传统，使未来的学生能够继续完善、扩展并传承这些知识。
 
-## 🤝 Contributions
+## 🤝 贡献
 
-Feel free to submit pull requests with improved notes, additional references, or corrections.
+欢迎提交 pull request，以改进笔记、补充参考资料或修正错误。
 
-## 📩 Contact
+## 📩 联系方式
 
-If you have suggestions or want to contribute, feel free to open an issue.
+如果你有建议或希望参与贡献，欢迎提交 issue。
